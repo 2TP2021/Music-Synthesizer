@@ -3,6 +3,8 @@
 Server sided mod for playing on noteblocks using gui and keyboard.
 Just crouch right click to open the gui.
 
+Made with [sgui](https://github.com/Patbox/sgui).
+
 ![Showcase](https://github.com/DevLisuu/Music-Synthesizer/raw/main/art/showcase1.0.png)
 
 # Features
